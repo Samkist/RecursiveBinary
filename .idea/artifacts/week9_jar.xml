@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="week9:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/week9_jar</output-path>
+    <root id="archive" name="week9.jar">
+      <element id="module-output" name="week9" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/TerminalIO.jar" path-in-jar="/" />
+      <element id="library" level="project" name="TerminalIO" />
+    </root>
+  </artifact>
+</component>
